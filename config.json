@@ -1,0 +1,15 @@
+{
+    "access_key": "<access_key>",
+    "access_key_secret": "<access_key_secret>",
+    "domains": [
+        {
+            "domain_name": "ipv6example.com",
+            "subdomain_name": "www", 
+            "type": "AAAA"
+        },
+		{
+            "domain_name": "ipv4example.com",
+            "type": "A"
+        }
+    ]
+}
